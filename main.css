@@ -10,6 +10,7 @@ body {
 
 .headline {
 	color: #151E3D;
+	font-size: 23px;
 	font-family: Georgia, serif;
 	padding-top: 30px;
 	
@@ -22,24 +23,25 @@ body {
 .narrative {
 	color: #151E3D;
 	font-family: Georgia, serif;
-	font-size: 16px;
+	font-size: 19px;
+	line-height: 30px;
 	background-color: #FDF6E4;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	padding-left: 10px;
-	padding-right: 10px;
+	padding-left: 40px;
+	padding-right: 40px;
 
 }
 
 .viz1 {
 	color: #151E3D;
-	background-color: #ffdab0;
+	background-color: #fcd4a7;
 	font-family: Georgia, serif;
 	font-size: 16px;
 	padding-top: 50px;
 	padding-bottom: 10px;
-	padding-left: 10px;
-	padding-right: 10px;
+	padding-left: 40px;
+	padding-right: 40px;
 
 }
 
@@ -48,9 +50,20 @@ body {
 	color: #151E3D;
 	font-family: Georgia, serif;
 	font-size: 16px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 40px;
+	padding-right: 40px;
+
+}
+
+.viz3 {
+	color: #151E3D;
+	font-family: Georgia, serif;
+	font-size: 16px;
 	padding-top: 50px;
 	padding-bottom: 10px;
-	padding-left: 10px;
-	padding-right: 10px;
+	padding-left: 40px;
+	padding-right: 40px;
 
 }
